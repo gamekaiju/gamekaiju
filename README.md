@@ -23,8 +23,5 @@
 <h3 align="left">Things I like to read:</h3>
 <a href="https://app.daily.dev/gamekaiju"><img src="https://github.com/gamekaiju/gamekaiju/blob/main/devcard.svg" width="400" alt="Gamekaiju's Dev Card"/></a>
 
-<h3 align="left">What I'm listening to now:</h3>
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31wld25z27ugig4vdalbtcwdv3iy&cover_image=true&theme=default&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
-
 <h3 align="left">My activity so far:</h3>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gamekaiju&" alt="gamekaiju" /></p>
